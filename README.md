@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nastaranjalali
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning java script
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently learning react
 - 📫 How to reach me : nastaranjalalibusiness@gmail.com
 
 <!---
